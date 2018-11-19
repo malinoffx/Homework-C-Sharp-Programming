@@ -1,0 +1,10 @@
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\bin\Debug\netcoreapp2.1\Глава 6 - Задача 14.deps.json
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\bin\Debug\netcoreapp2.1\Глава 6 - Задача 14.runtimeconfig.json
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\bin\Debug\netcoreapp2.1\Глава 6 - Задача 14.runtimeconfig.dev.json
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\bin\Debug\netcoreapp2.1\Глава 6 - Задача 14.dll
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\bin\Debug\netcoreapp2.1\Глава 6 - Задача 14.pdb
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\obj\Debug\netcoreapp2.1\Глава 6 - Задача 14.csproj.CoreCompileInputs.cache
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\obj\Debug\netcoreapp2.1\Глава 6 - Задача 14.AssemblyInfoInputs.cache
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\obj\Debug\netcoreapp2.1\Глава 6 - Задача 14.AssemblyInfo.cs
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\obj\Debug\netcoreapp2.1\Глава 6 - Задача 14.dll
+C:\Users\Malinov\source\repos\Глава 6\Глава 6 - Задача 14\obj\Debug\netcoreapp2.1\Глава 6 - Задача 14.pdb
