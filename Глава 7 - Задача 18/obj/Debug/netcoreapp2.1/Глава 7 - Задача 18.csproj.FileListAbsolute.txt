@@ -1,0 +1,3 @@
+C:\Users\Malinov\source\repos\Глава 7\Глава 7 - Задача 18\obj\Debug\netcoreapp2.1\Глава 7 - Задача 18.csproj.CoreCompileInputs.cache
+C:\Users\Malinov\source\repos\Глава 7\Глава 7 - Задача 18\obj\Debug\netcoreapp2.1\Глава 7 - Задача 18.AssemblyInfoInputs.cache
+C:\Users\Malinov\source\repos\Глава 7\Глава 7 - Задача 18\obj\Debug\netcoreapp2.1\Глава 7 - Задача 18.AssemblyInfo.cs
