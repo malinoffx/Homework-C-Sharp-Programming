@@ -1,0 +1,22 @@
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).deps.json
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).runtimeconfig.json
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).runtimeconfig.dev.json
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).dll
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).pdb
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).csprojAssemblyReference.cache
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).csproj.CoreCompileInputs.cache
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).AssemblyInfoInputs.cache
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).AssemblyInfo.cs
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).dll
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).pdb
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).deps.json
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).runtimeconfig.json
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).runtimeconfig.dev.json
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).dll
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\bin\Debug\netcoreapp2.1\Тест 2 - 4 II).pdb
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).csprojAssemblyReference.cache
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).csproj.CoreCompileInputs.cache
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).AssemblyInfoInputs.cache
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).AssemblyInfo.cs
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).dll
+C:\Users\Malinov\Desktop\Тест 2 - 4 II)\obj\Debug\netcoreapp2.1\Тест 2 - 4 II).pdb
