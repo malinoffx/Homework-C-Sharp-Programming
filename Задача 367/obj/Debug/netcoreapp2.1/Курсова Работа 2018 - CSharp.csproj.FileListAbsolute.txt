@@ -1,0 +1,11 @@
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\bin\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.deps.json
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\bin\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.runtimeconfig.json
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\bin\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.runtimeconfig.dev.json
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\bin\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.dll
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\bin\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.pdb
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\obj\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.csprojAssemblyReference.cache
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\obj\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\obj\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.AssemblyInfoInputs.cache
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\obj\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.AssemblyInfo.cs
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\obj\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.dll
+C:\Users\Malinov\source\repos\Курсова Работа 2018 - CSharp\Курсова Работа 2018 - CSharp\obj\Debug\netcoreapp2.1\Курсова Работа 2018 - CSharp.pdb
