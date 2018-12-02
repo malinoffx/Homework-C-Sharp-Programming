@@ -1,0 +1,4 @@
+C:\Users\Malinov\source\repos\Глава 9\Глава 9 - Задача 1\obj\Debug\netcoreapp2.1\Глава 9 - Задача 1.csprojAssemblyReference.cache
+C:\Users\Malinov\source\repos\Глава 9\Глава 9 - Задача 1\obj\Debug\netcoreapp2.1\Глава 9 - Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\Malinov\source\repos\Глава 9\Глава 9 - Задача 1\obj\Debug\netcoreapp2.1\Глава 9 - Задача 1.AssemblyInfoInputs.cache
+C:\Users\Malinov\source\repos\Глава 9\Глава 9 - Задача 1\obj\Debug\netcoreapp2.1\Глава 9 - Задача 1.AssemblyInfo.cs
