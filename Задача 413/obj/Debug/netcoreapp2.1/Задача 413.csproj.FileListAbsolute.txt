@@ -1,0 +1,11 @@
+C:\Users\Malinov\Desktop\Задача 413\bin\Debug\netcoreapp2.1\Задача 413.deps.json
+C:\Users\Malinov\Desktop\Задача 413\bin\Debug\netcoreapp2.1\Задача 413.runtimeconfig.json
+C:\Users\Malinov\Desktop\Задача 413\bin\Debug\netcoreapp2.1\Задача 413.runtimeconfig.dev.json
+C:\Users\Malinov\Desktop\Задача 413\bin\Debug\netcoreapp2.1\Задача 413.dll
+C:\Users\Malinov\Desktop\Задача 413\bin\Debug\netcoreapp2.1\Задача 413.pdb
+C:\Users\Malinov\Desktop\Задача 413\obj\Debug\netcoreapp2.1\Задача 413.csprojAssemblyReference.cache
+C:\Users\Malinov\Desktop\Задача 413\obj\Debug\netcoreapp2.1\Задача 413.csproj.CoreCompileInputs.cache
+C:\Users\Malinov\Desktop\Задача 413\obj\Debug\netcoreapp2.1\Задача 413.AssemblyInfoInputs.cache
+C:\Users\Malinov\Desktop\Задача 413\obj\Debug\netcoreapp2.1\Задача 413.AssemblyInfo.cs
+C:\Users\Malinov\Desktop\Задача 413\obj\Debug\netcoreapp2.1\Задача 413.dll
+C:\Users\Malinov\Desktop\Задача 413\obj\Debug\netcoreapp2.1\Задача 413.pdb
